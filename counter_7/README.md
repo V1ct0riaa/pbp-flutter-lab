@@ -1,16 +1,9 @@
-# counter_7
+# Tugas 7
 
-A new Flutter project.
+Natanael Pascal Simbolon
+2106751764
+PBP B
 
-## Getting Started
+## Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget dan jelaskan perbedaan dari keduanya.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Stateless widget sendiri adalah widget dimana state-nya tidak bisa diubah setelah dibuat, sedangkan Stateful widget adalah widget yang state-nya bisa diubah setelah dibuat. Hal tersebut dikarenakan oleh Stateless widget yang memiliki sifat immutable dan
